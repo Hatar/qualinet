@@ -1,0 +1,10 @@
+.menu .nav-menu li .sub-menu-wrap{
+    z-index: 9999;
+}
+.content p{
+    line-height: 1.7;
+    font-size: 15px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 10px #CCCCCC;
+}
